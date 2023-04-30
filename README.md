@@ -9,7 +9,7 @@
 - Curently learning Dart & Flutter.
 - Searching for work. 🔍
 
-![wakatime](https://wakatime.com/badge/user/2c78a3ae-da21-4e42-a6a3-ca1ccc330de1.svg)
+![wakatime](https://wakatime.com/badge/user/2c78a3ae-da21-4e42-a6a3-ca1ccc330de1.svg?style=for-the-badge)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=MisakaAsAlways&theme=gruvbox_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
